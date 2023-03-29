@@ -1,0 +1,17 @@
+- slug: david
+  name: David Krueger
+  title: Principal Investigator
+  bio: David is an Assistant Professor at the University of Cambridge and a member of the Computational and Biological Learning lab (CBL). He is broadly interested in work (including in areas outside of ML, e.g. AI governance) that could reduce the risk of human extinction (“x-risk”) resulting from out-of-control AI systems
+  website: https://www.davidscottkrueger.com
+
+- slug: lauro
+  name: Lauro Langosco
+  title: PhD Student
+  bio: "Lauro's main research interest is AI alignment: the problem of building intelligent systems that do what we want them to even when they are smarter than us."
+  website: https://www.laurolangosco.com
+
+- slug: alan
+  name: Alan Chan
+  title: Visiting PhD Student
+  bio: "Alan works on ensuring the safe and broadly beneficial development of AI. His work consists of both technical and sociotechnical approaches to improve coordination amongst key actors to reduce AI risk."
+  website: https://www.achan.ca

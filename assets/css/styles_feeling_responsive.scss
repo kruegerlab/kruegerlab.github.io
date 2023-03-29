@@ -3,6 +3,19 @@
 sitemap:
   exclude: true
 ---
+.profile-picture {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 0 
+}
+
+.author-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 @charset "utf-8";
 
 @import "functions.scss";
@@ -47,3 +60,4 @@ sitemap:
 {% endif %}
 
 @import "11_syntax-highlighting.scss";
+

@@ -5,5 +5,6 @@ title               : "Research"
 subheadline         : "subheadline"
 #teaser              : ""
 permalink           : "/research/"
+header: no
 ---
 TODO list research areas + descriptions!

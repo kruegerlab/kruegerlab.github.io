@@ -15,3 +15,9 @@
   title: Visiting PhD Student
   bio: "Alan works on ensuring the safe and broadly beneficial development of AI. His work consists of both technical and sociotechnical approaches to improve coordination amongst key actors to reduce AI risk."
   website: https://www.achan.ca
+
+- slug: bruno
+  name: Bruno Mlodozeniec
+  title: PhD Student
+  bio: "Bruno's primary interest is in figuring out how deep learning models could learn and represent the structure present in the data – whether it be causal models or symmetries. The goal is having models that generalise robustly by learning adequate abstractions of the world they are embedded in, and reduce, or at least detect, undesired reliance on spurious features."
+  website: https://brunokm.github.io/

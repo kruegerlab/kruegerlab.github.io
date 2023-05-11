@@ -25,7 +25,6 @@
 - slug: shoaib
   name: Shoaib Ahmed Siddiqui
   title: PhD Student
-  bio: I am a second-year Ph.D. student at the University of Cambridge supervised by David Krueger. Prior to this, I did my MS from Germany (TU Kaiserslautern) followed by an internship at NVIDIA research. I am broadly interested in the empirical theory of deep learning with an aim to better understand how deep learning models work. Understanding them will enable us to design more effective learning systems in the future. In regards to AI alignment, I work on the myopic problem of robustness, which includes both robustness against adversarial as well as common real-world corruptions. I am also looking at robustness against group imbalance in the context of model fairness (unwarranted penalization of minority group samples) or even label noise. I am also very interested in self-supervised learning (SSL) as it enables us to encode prior knowledge about the world. I consider SSL to be a natural direction for developing robust models in the future. Finally, I have some prior experience in large-scale deep learning (including both visual recognition and language models) and model compression.
 
 - slug: stephen
   name: Stephen Chung
@@ -40,25 +39,20 @@
 - slug: nitarshan
   name: Nitarshan Rajkumar
   title: PhD Student
-  bio: I'm a PhD student co-advised by Ferenc Huszár and David Krueger. I completed my MSc at Mila (Montreal) where I variously worked on empirical evaluation of generalization bounds, data-efficient RL using SSL, and Text-to-SQL using GPT-3 and Codex. I am broadly interested in deep learning at scale - understanding how and why performance improves (or doesn't). This interest extends to practical applications of large models (such as GPT-3 and Codex) on real-world tasks. I'm also interested in policy considerations for the responsible development of AI.
 
 - slug: dmitrii
   name: Dmitrii Krasheninnikov
   title: PhD Student
-  bio: [dmkr0001@gmail.com](mailto:dmkr0001@gmail.com) I am a PhD student working on AI safety with David Krueger. I’m interested in designing AI systems that do what we want them to do, and am hoping to ensure that AI’s long-term impact on humanity is positive. I earned my master’s degree in AI from the University of Amsterdam, and had the opportunity to work with UC Berkeley’s Center for Human-Compatible AI during and after my studies. I also spent about a year working on deep reinforcement learning and robotics at Sony AI Zurich.
 
 - slug: neel
   name: Neel Alex
   title: PhD Student
-  bio: [alexneel@gmail.com](mailto:alexneel@gmail.com) I’m a second year PhD student supervised by David Krueger. Previously, I was a research intern at UC Berkeley’s Center for Human-Compatible AI for two years, and I’ve also done internships at small companies such as Ought and DeepScale. I’m broadly interested in AI alignment and the long-term future of AI. My work so far has largely been in benchmarking and problem definition – how do we specify problems in a way to get AIs to do useful things for us? That work has spanned several domains, from traditional RL sequential environments to large language models. Recently, I’ve been working more in sequential learning environments, and trying to understand some ways that learning might work without explicitly given reward functions. Apart from technical AI, I’m also personally interested (though I lack expertise) in AI governance and solving global coordination problems.
 
 - slug: usman
   name: Usman Anwar
   title: PhD Student
-  bio: [usmananwar391@gmail.com](mailto:usmananwar391@gmail.com) I am a PhD student at the University of Cambridge. I am supervised by David Kruger and funded by Open Phil AI Fellowship and Vitalik Buterin Fellowship on Existential AI Safety. My research interests span Reinforcement Learning, Deep Learning and Cooperative AI. My long term goal in AI research is to develop useful, versatile and human-aligned AI systems that can learn from humans and each other. My research focuses on identifying the factors which make it difficult to develop human-aligned AI systems and developing techniques to work around these factors. In particular, I am interested in exploring ways through which rich human preferences and desires could be adaptively communicated to the AI agents, especially in complex scenarios such as multi-agent planning and time-varying preferences with the ultimate goal of both broadening the scope of tasks that AI agents can undertake as well as making the AI agents more aligned and trustworthy. For publications and other details, please visit [https://uzman-anwar.github.io](https://uzman-anwar.github.io/).
 
 - slug: ethan
   name: Ethan Caballero
   title: PhD Student
-  bio: I'm interested in finding all the downstream evaluations that matter and finding that which scales optimally with respect to all those downstream evaluations.
   

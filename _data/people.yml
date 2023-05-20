@@ -1,7 +1,7 @@
 - slug: david
   name: David Krueger
   title: Principal Investigator
-  bio: David is an Assistant Professor at the University of Cambridge and a member of the Computational and Biological Learning lab (CBL). He is broadly interested in work (including in areas outside of ML, e.g. AI governance) that could reduce the risk of human extinction (“x-risk”) resulting from out-of-control AI systems
+  bio: David is an Assistant Professor at the University of Cambridge and a member of the Computational and Biological Learning lab (CBL). He is broadly interested in work (including in areas outside of ML, e.g. AI governance) that could reduce the risk of human extinction (“x-risk”) resulting from out-of-control AI systems.
   website: https://www.davidscottkrueger.com
 
 - slug: lauro
@@ -19,34 +19,13 @@
 - slug: bruno
   name: Bruno Mlodozeniec
   title: PhD Student
-  bio: "Bruno's primary interest is in figuring out how deep learning models could learn and represent the structure present in the data – whether it be causal models or symmetries. The goal is having models that generalise robustly by learning adequate abstractions of the world they are embedded in, and reduce, or at least detect, undesired reliance on spurious features."
+  bio: "Bruno's primary interest is in figuring out how deep learning models learn and represent the structure present in data, both in causal models or symmetries. He aims to create models that generalise robustly by learning adequate abstractions of the world they are embedded in, and reduce undesired reliance on spurious features."
   website: https://brunokm.github.io/
 
 - slug: shoaib
   name: Shoaib Ahmed Siddiqui
   title: PhD Student
-
-- slug: stephen
-  name: Stephen Chung
-  title: PhD Student
-  bio: Stephen is a Ph.D. student at the University of Cambridge supervised by David Krueger.
-
-- slug: aryeh
-  name: Aryeh Englander
-  title: PhD Student
-  bio: Aryeh is a Ph.D. student at the University of Cambridge supervised by David Krueger.
-
-- slug: nitarshan
-  name: Nitarshan Rajkumar
-  title: PhD Student
-
-- slug: dmitrii
-  name: Dmitrii Krasheninnikov
-  title: PhD Student
-
-- slug: neel
-  name: Neel Alex
-  title: PhD Student
+  bio: "Shoaib's research focuses on the empirical theory of deep learning, improving models for more effective learning systems. He explores robustness against adversarial attacks and real-world corruptions, while also investigating self-supervised learning. He has prior experience in large-scale deep learning and model compression."
 
 - slug: usman
   name: Usman Anwar
@@ -56,5 +35,30 @@
 - slug: ethan
   name: Ethan Caballero
   title: PhD Student
-  bio: Ethan is interested in finding all the downstream evaluations/measurements that matter and finding that which scales best according to all those downstream evaluations ~simultaneously, primarily in the largest scale regime (largest compute, largest dataset, ~largest model). These interests encompass all aspects of Artificial Neural Networks (unsupervised learning, reinforcement learning, capabilities, alignment, all modalities, science of deep learning, etc.).
+  bio: "Ethan seeks optimal downstream evaluations that scale well across all aspects of Artificial Neural Networks, particularly in the largest scale regime (compute, dataset, model). His interests encompass unsupervised learning, reinforcement learning, capabilities, alignment, modalities, and the science of deep learning."
+
+- slug: dmitrii
+  name: Dmitrii Krasheninnikov
+  title: PhD Student
+  bio: "Dima is broadly interested in AI alignment and existential safety. His current research focuses on better understanding capabilities and failure modes of foundation models."
+  website: https://krasheninnikov.github.io/about/
+
+- slug: nitarshan
+  name: Nitarshan Rajkumar
+  title: PhD Student
+  bio: "Nitarshan is co-supervised by Ferenc Huszár. He completed his MSc at Mila, working on data-efficient RL with SSL and Text-to-SQL using GPT-3 and Codex. His interests include deep learning at scale, understanding performance improvement and responsible AI policy considerations."
+
+- slug: neel
+  name: Neel Alex
+  title: PhD Student
+  bio: "Neel focuses on AI alignment, benchmarking, and problem definition to make AIs perform useful tasks. He has also explored learning without explicit rewards and is interested in AI governance and global coordination problems."
   
+- slug: stephen
+  name: Stephen Chung
+  title: PhD Student
+  bio: Stephen is a Ph.D. student at the University of Cambridge supervised by David Krueger.
+
+- slug: aryeh
+  name: Aryeh Englander
+  title: PhD Student
+  bio: Aryeh is a Ph.D. student at the University of Cambridge supervised by David Krueger.

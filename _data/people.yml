@@ -51,8 +51,10 @@
 - slug: usman
   name: Usman Anwar
   title: PhD Student
+  bio: Usman’s research interests are Reinforcement Learning, Deep Learning and Cooperative AI. He hopes to develop useful, versatile and human-aligned AI systems that can learn from humans and each other.
 
 - slug: ethan
   name: Ethan Caballero
   title: PhD Student
+  bio: Ethan is interested in finding all the downstream evaluations/measurements that matter and finding that which scales best according to all those downstream evaluations ~simultaneously, primarily in the largest scale regime (largest compute, largest dataset, ~largest model). These interests encompass all aspects of Artificial Neural Networks (unsupervised learning, reinforcement learning, capabilities, alignment, all modalities, science of deep learning, etc.).
   

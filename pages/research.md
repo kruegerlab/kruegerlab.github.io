@@ -7,5 +7,5 @@ subheadline         : "subheadline"
 permalink           : "/research/"
 header: no
 ---
-(in progress)
-TODO list research areas + descriptions!
+
+Our research spans a wide range of topics, including evaluation metrics for AI systems, deep learning architectures, governance of AI systems, and preventing reward hacking. Please explore our subpages to learn more about these topics and our work in addressing them.

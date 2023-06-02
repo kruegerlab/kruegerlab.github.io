@@ -7,25 +7,26 @@ header: no
 ---
 Key Publications: 
 
-**Alan Chan**, Rebecca Salganik, Zhonghao He, John Burden, **Yawen Duan**,
+##### Harms from Increasingly Agentic Algorithmic Systems.
+Alan Chan, Rebecca Salganik, Zhonghao He, John Burden, Yawen Duan,
 Shalaleh Rismani, Alva Markelius, Katherine Collins, Maryam
-Molamohammadi, Chris Pang, **Lauro Langosco**, Konstantinos Voudouris, Wanru
-Zhao, **Dmitrii Krasheninnikov**, Michelle Lin, Alex Mayhew, Umang Bhatt,
-Adrian Weller, **David Krueger**, Tegan Maharaj (2023). Harms from
-Increasingly Agentic Algorithmic Systems. 
+Molamohammadi, Chris Pang, Lauro Langosco, Konstantinos Voudouris, Wanru
+Zhao, Dmitrii Krasheninnikov, Michelle Lin, Alex Mayhew, Umang Bhatt,
+Adrian Weller, David Krueger, Tegan Maharaj (2023). \\
 *ACM Conference on Fairness,
 Accountability, and Transparency.*
 
-Shoaib Ahmed Siddiqui, Nitarshan Rajkumar, Tegan Maharaj, **David
-Krueger**, Sara Hooker (2023). 
-[Metadata Archaeology: Unearthing Data Subsets by Leveraging Training Dynamics.](https://arxiv.org/abs/2209.10015) *International Conference
-on Learning Representations (**spotlight / top 25%**).* **Pages: 20**
+##### [Metadata Archaeology: Unearthing Data Subsets by Leveraging Training Dynamics.](https://arxiv.org/abs/2209.10015) 
+Shoaib Ahmed Siddiqui, Nitarshan Rajkumar, Tegan Maharaj, David
+Krueger, Sara Hooker (2023). \\
+*International Conference
+on Learning Representations (**spotlight / top 25%**).
 
-**Ethan Caballero**, Kshitij Gupta, Irina Rish, **David Krueger** (2023).
-[Broken Neural Scaling Laws.](https://arxiv.org/abs/2210.14891)
-*International Conference on Learning Representations.* **Pages: 37**
+##### [Broken Neural Scaling Laws.](https://arxiv.org/abs/2210.14891)
+Ethan Caballero, Kshitij Gupta, Irina Rish, David Krueger (2023). \\
+*International Conference on Learning Representations.*
 
-**Ekdeep Singh Lubana**, Eric J Bigelow, Robert Dick, **David Krueger**,
-Hidenori Tanaka (2023). 
-[Mechanistic Mode Connectivity.](https://arxiv.org/abs/2211.08422) *International
-Conference on Machine Learning.* **Pages: 39**
+##### [Mechanistic Mode Connectivity.](https://arxiv.org/abs/2211.08422)
+Ekdeep Singh Lubana, Eric J Bigelow, Robert Dick, David Krueger,
+Hidenori Tanaka (2023). \\
+*International Conference on Machine Learning.*

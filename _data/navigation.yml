@@ -2,22 +2,22 @@
   url: "/"
   side: left
 
-- title: Research
-  url: "/research/"
-  side: left
-  dropdown:
-    - title: Intro to AI Safety
-      url: "/research/safety/"
-    - title: The Science of Deep Learning
-      url: "/research/science/"
-    - title: Governance
-      url: "/research/governance/"
-    - title: Reward Hacking
-      url: "/research/hacking/"
-    - title: Evals - Understanding Large Language Models
-      url: "/research/evals/"
-    - title: What else?
-      url: "/research/what/"
+#- title: Research
+#  url: "/research/"
+#  side: left
+#  dropdown:
+#    - title: Intro to AI Safety
+#      url: "/research/safety/"
+#    - title: The Science of Deep Learning
+#      url: "/research/science/"
+#    - title: Governance
+#      url: "/research/governance/"
+#    - title: Reward Hacking
+#      url: "/research/hacking/"
+#    - title: Evals - Understanding Large Language Models
+#      url: "/research/evals/"
+#    - title: What else?
+#      url: "/research/what/"
 
 - title: People
   url: "/people/"
@@ -27,9 +27,9 @@
   url: "/publications/"
   side: left
 
-- title: Work With Us
-  url: "/work-with-us/"
-  side: left
+#- title: Work With Us
+#  url: "/work-with-us/"
+#  side: left
 
 - title: "Search"
   url: "/search/"

@@ -6,8 +6,8 @@ title: Welcome.
 header: no
 image:
     title: lab-group-photo.jpg
-    caption: 
-    caption_url:
+    caption:  
+    caption_url: 
 ---
 Welcome to the Krueger Lab. 
 

@@ -5,7 +5,6 @@ title               : "Group Members"
 permalink           : "/people/"
 header: no
 ---
-(In progress)
 <br>
 {% for member in site.data.people %}
   <div class="row">

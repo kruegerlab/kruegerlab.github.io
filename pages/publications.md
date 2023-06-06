@@ -22,7 +22,7 @@ Krueger, Sara Hooker \\
 
 ##### [Broken Neural Scaling Laws.](https://arxiv.org/abs/2210.14891)
 Ethan Caballero, Kshitij Gupta, Irina Rish, David Krueger. \\
-*International Conference on Learning Representations 2023).*
+*International Conference on Learning Representations (2023).*
 
 ##### [Mechanistic Mode Connectivity.](https://arxiv.org/abs/2211.08422)
 Ekdeep Singh Lubana, Eric J Bigelow, Robert Dick, David Krueger,
@@ -34,11 +34,11 @@ Joar Skalse, Niki Howe, Dmitrii Krasheninnikov, David Krueger. \\
 *Neural Information Processing Systems (2022).*
 
 ##### [Goal Misgeneralization in Deep Reinforcement Learning.](https://proceedings.mlr.press/v162/langosco22a.html)
-Lauro Langosco Di Langosco, Jack Koch, Lee Sharkey, Jacob Pfau, David Krueger. \\
+Lauro Langosco, Jack Koch, Lee Sharkey, Jacob Pfau, David Krueger. \\
 *International Conference on Machine Learning (2022).*
 
 ##### [Out-of-Distribution Generalization via Risk Extrapolation (REx).](https://arxiv.org/abs/2003.00688)
-David Krueger, Ethan Caballero, J{\"o}rn-Henrik Jacobsen, Amy Zhang, Jonathan Binas, Dinhuai Zhang, R{\'e}mi Le Priol, Aaron Courville. \\
+David Krueger, Ethan Caballero, Jörn-Henrik Jacobsen, Amy Zhang, Jonathan Binas, Dinhuai Zhang, Remi Le Priol, Aaron Courville. \\
 *International Conference on Machine Learning (Oral) (2021)*
 
 ##### [Filling gaps in trustworthy development of AI.](https://www.science.org/doi/10.1126/science.abi7176)

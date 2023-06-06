@@ -7,26 +7,40 @@ header: no
 ---
 Key Publications: 
 
-##### Harms from Increasingly Agentic Algorithmic Systems.
+##### [Harms from Increasingly Agentic Algorithmic Systems.](https://arxiv.org/abs/2302.10329)
 Alan Chan, Rebecca Salganik, Zhonghao He, John Burden, Yawen Duan,
 Shalaleh Rismani, Alva Markelius, Katherine Collins, Maryam
 Molamohammadi, Chris Pang, Lauro Langosco, Konstantinos Voudouris, Wanru
 Zhao, Dmitrii Krasheninnikov, Michelle Lin, Alex Mayhew, Umang Bhatt,
-Adrian Weller, David Krueger, Tegan Maharaj (2023). \\
+Adrian Weller, David Krueger, Tegan Maharaj \\
 *ACM Conference on Fairness,
-Accountability, and Transparency.*
+Accountability, and Transparency (2023).*
 
 ##### [Metadata Archaeology: Unearthing Data Subsets by Leveraging Training Dynamics.](https://arxiv.org/abs/2209.10015) 
 Shoaib Ahmed Siddiqui, Nitarshan Rajkumar, Tegan Maharaj, David
-Krueger, Sara Hooker (2023). \\
+Krueger, Sara Hooker \\
 *International Conference
-on Learning Representations (**spotlight / top 25%**).
+on Learning Representations (2023) (**spotlight / top 25%**).
 
 ##### [Broken Neural Scaling Laws.](https://arxiv.org/abs/2210.14891)
-Ethan Caballero, Kshitij Gupta, Irina Rish, David Krueger (2023). \\
-*International Conference on Learning Representations.*
+Ethan Caballero, Kshitij Gupta, Irina Rish, David Krueger. \\
+*International Conference on Learning Representations 2023).*
 
 ##### [Mechanistic Mode Connectivity.](https://arxiv.org/abs/2211.08422)
 Ekdeep Singh Lubana, Eric J Bigelow, Robert Dick, David Krueger,
-Hidenori Tanaka (2023). \\
-*International Conference on Machine Learning.*
+Hidenori Tanaka. \\
+*International Conference on Machine Learning (2023).*
+
+##### [Defining and Characterizing Reward Gaming](https://arxiv.org/abs/2209.13085)
+Joar Skalse, Niki Howe, Dmitrii Krasheninnikov, David Krueger.
+*Neural Information Processing Systems (2022).*
+
+##### [Goal Misgeneralization in Deep Reinforcement Learning.](https://proceedings.mlr.press/v162/langosco22a.html)
+Lauro Langosco Di Langosco, Jack Koch, Lee Sharkey, Jacob Pfau, David Krueger.
+*International Conference on Machine Learning (2022).*
+
+
+
+
+
+

@@ -28,8 +28,8 @@ permalink: /index.html
 #
 homepage: true
 header: no
+title: Welcome to the Krueger Lab. 
 ---
-# Welcome to the Krueger Lab. 
 
 We are a research group at the University of Cambridge and are part of [Cambridge's Computational and Biological Learning Lab](https://www.cbl-cambridge.org/people/) (CBL) and the [Machine Learning Group](https://www.cbl-cambridge.org/people/) (MLG).
 

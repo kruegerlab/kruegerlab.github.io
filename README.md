@@ -1,4 +1,4 @@
-# Lab Website (in progress)
+# Lab Website
 This site uses the feeling-responsive Jekyll theme; view the theme docs for customization tips.
 
 ## Add your name to `/people`

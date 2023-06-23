@@ -48,17 +48,13 @@
   title: PhD Student
   bio: "Stephen is interested in the interaction of reinforcement learning and biologically-inspired machine learning. He hopes to develop reinforcement learning agents that behave similarly to animals, while ensuring the safety of the agents."
 
-- slug: nitarshan
-  name: Nitarshan Rajkumar
-  title: PhD Student
-  bio: "Nitarshan is co-supervised by Ferenc Huszár. He completed his MSc at Mila, working on data-efficient RL with SSL and Text-to-SQL using GPT-3 and Codex. His interests include deep learning at scale, understanding performance improvement and responsible AI policy considerations."
-
 - slug: neel
   name: Neel Alex
   title: PhD Student
   bio: "Neel focuses on AI alignment, benchmarking, and problem definition to make AIs perform useful tasks. He has also explored learning without explicit rewards and is interested in AI governance and global coordination problems."
 
-- slug: aryeh
-  name: Aryeh Englander
-  title: PhD Student
-  bio: Aryeh is a Ph.D. student at the University of Cambridge supervised by David Krueger.
+#  - slug: nitarshan
+#  name: Nitarshan Rajkumar
+#  title: PhD Student
+#  bio: "Nitarshan is co-supervised by Ferenc Huszár. He completed his MSc at Mila, working on data-efficient RL with SSL and Text-to-SQL using GPT-3 and Codex. His interests include deep learning at scale, understanding performance improvement and responsible AI policy considerations."
+

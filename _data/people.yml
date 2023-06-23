@@ -12,7 +12,7 @@
 
 - slug: alan
   name: Alan Chan
-  title: Visiting PhD Student
+  title: PhD Student
   bio: "Alan works on ensuring the safe and broadly beneficial development of AI. His work consists of both technical and sociotechnical approaches to improve coordination amongst key actors to reduce AI risk."
   website: https://www.achan.ca
 
@@ -52,6 +52,24 @@
   name: Neel Alex
   title: PhD Student
   bio: "Neel focuses on AI alignment, benchmarking, and problem definition to make AIs perform useful tasks. He has also explored learning without explicit rewards and is interested in AI governance and global coordination problems."
+
+#- slug: jesse
+#  name: Jesse Hoogland
+#  title: Research Assistant
+#  bio: 
+
+#- slug: egor
+#  name: Egor Krasheninnikov
+#  title: Research Assistant
+#  bio: 
+
+#- slug: ivan
+#  name: Ivan Anokhin
+#  title: Research Assistant
+#  bio: 
+
+  
+
 
 #  - slug: nitarshan
 #  name: Nitarshan Rajkumar

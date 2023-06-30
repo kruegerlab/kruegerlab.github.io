@@ -31,9 +31,9 @@
 #  url: "/work-with-us/"
 #  side: left
 
-- title: "Search"
-  url: "/search/"
-  side: right
+#- title: "Search"
+#  url: "/search/"
+#  side: right
 
 - title: "Contact"
   url: "/contact/"

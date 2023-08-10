@@ -36,5 +36,5 @@ We are a research group at the University of Cambridge and are part of [Cambridg
 <br>
 
 <div class="small-12 medium-12 large-12 columns b30">
-	<img src="{{ site.baseurl }}/images/lab-group-photo.jpg" alt="Our lab." class="group-picture">
+	<img src="{{ site.baseurl }}/images/lab-group-photo1.jpg" alt="Our lab." class="group-picture">
 </div>
